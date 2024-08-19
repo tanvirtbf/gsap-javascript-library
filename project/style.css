@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(50,49,49);
+}
+.heading{
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+.box{
+  height: 100px;
+  width: 150px;
+  margin: 30px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  border-radius: 20px;
+}
+#box1{
+  background-color: rgb(30,30,187);
+}
+#box2{
+  background-color: rgb(168,34,34);
+}
+#box3{
+  background-color: rgb(27,140,27);
+}
+.btn{
+  border:none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#play{
+  background-color: purple;
+}
+#pause{
+  background-color: gray;
+}
